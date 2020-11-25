@@ -2,6 +2,9 @@
 
 ## To Use: git clone and install npm deendency files. Then run command line application via "node index.js" and follow the prompts
 
+
+![](Assets/employeetrackercli.gif)
+
 An employee tracking command line program utilizing MYSQL
 
 Index and SQL files created
