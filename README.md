@@ -1,6 +1,6 @@
 # EMPLOYEE TRACKER - Utilizing Inquirer and MYSQL
 
-## To Use: git clone and install npm deendency files. Then run command line application via "node index.js" and follow the prompts
+## To Use: git clone and install npm dependency files. Then run command line application via "node index.js" and follow the prompts
 
 
 ![](Assets/employeetrackercli.gif)
